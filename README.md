@@ -60,42 +60,6 @@ class OzlemAltintas:
 
 ---
 
-## 📌 Öne Çıkan Projeler
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 [Churn Prediction System](https://github.com/ozlem-wq/churn-prediction-system)
-End-to-end müşteri kaybı tahmin sistemi
-
-**Tech:** `Python` `XGBoost` `FastAPI` `Docker` `K8s`
-
-- ✅ %85+ ROC-AUC doğruluk
-- ✅ REST API ile real-time tahmin
-- ✅ MLflow experiment tracking
-- ✅ Streamlit dashboard
-- ✅ Production-ready deployment
-
-</td>
-<td width="50%">
-
-### 🔗 [Supabase Webhook System](https://github.com/ozlem-wq/supabase-webhook-system)
-Otomatik webhook ve n8n entegrasyonu
-
-**Tech:** `Deno` `TypeScript` `Supabase` `n8n`
-
-- ✅ Database trigger otomasyonu
-- ✅ Edge Functions
-- ✅ Workflow entegrasyonu
-- ✅ Güvenli delivery sistemi
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📈 GitHub İstatistiklerim
 
 <p align="center">
