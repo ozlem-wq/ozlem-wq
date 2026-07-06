@@ -95,11 +95,11 @@ class OzlemAltintas:
 ## 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ozlem-wq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozlem-wq&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ozlem-wq&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozlem-wq&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ozlem-wq&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=ozlem-wq&theme=dracula&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -107,7 +107,7 @@ class OzlemAltintas:
 ## 🏆 GitHub Trofelerim
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ozlem-wq&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ozlem-wq&theme=dracula&no-frame=true&row=1&column=7" alt="Trophies"/>
 </p>
 
 ---
@@ -132,7 +132,7 @@ Projeler, işbirlikleri veya teknik konular hakkında konuşmak isterseniz bana 
 </p>
 
 <p align="center">
-  <em>"Veriyi ve yapay zekâyı, gerçekten çalışan ürünlere dönüştürmek."</em>
+  <em>"Benim için en güzel an, kurduğum bir modelin ya da ajanın ilk kez<br>gerçek bir kullanıcıya faydalı olduğu andır. Yapay zekâyı laboratuvardan sahaya taşıyorum."</em>
 </p>
 
 <p align="center">
