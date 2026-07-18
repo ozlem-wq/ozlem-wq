@@ -105,9 +105,14 @@ class OzlemAltintas:
 <p align="center">
   <sub>📊 İstatistik kartları geçici bakımda — yakında kendi sunucumda aktif olacak.</sub>
 </p>
+<!-- Streak kartı geçici kapatıldı: streak-stats.demolab.com aralıklı "Failed to retrieve
+     contributions" hatası veriyor (GitHub API rate-limit) ve GitHub camo bozuk görseli önbelleğe
+     alıyor → kalıcı kırık görünüyor. Native katkı grafiği zaten profilde. Kendi Vercel'ine
+     self-host edilince (DenverCoder1/github-readme-streak-stats) geri açılır.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ozlem-wq&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
+-->
 
 ---
 
