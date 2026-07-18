@@ -94,9 +94,16 @@ class OzlemAltintas:
 
 ## 📊 GitHub İstatistiklerim
 
+<!-- GitHub Stats + Top Languages geçici olarak kapatıldı: public github-readme-stats.vercel.app
+     503 (rate-limit/aşırı yük) veriyordu → kırık görsel. Kendi Vercel instance'ına self-host edip
+     aşağıdaki iki URL'de host'u kendi domaininle değiştirince yorumu kaldırıp tekrar aç.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ozlem-wq&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozlem-wq&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+</p>
+-->
+<p align="center">
+  <sub>📊 İstatistik kartları geçici bakımda — yakında kendi sunucumda aktif olacak.</sub>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ozlem-wq&theme=radical&hide_border=true" alt="GitHub Streak"/>
@@ -107,7 +114,7 @@ class OzlemAltintas:
 ## 🏆 GitHub Trofelerim
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ozlem-wq&theme=radical&no-frame=true&row=1&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=ozlem-wq&theme=radical&no-frame=true&row=1&column=7" alt="Trophies"/>
 </p>
 
 ---
